@@ -2,9 +2,9 @@ React Native Starter Project
 ======================================================
 
 ## Pre-Requisites
-1- Node Package Manager or Yarn
-2- WatchMan
-3- React-Native CLI
+1- Node Package Manager or Yarn <br />
+2- WatchMan <br />
+3- React-Native CLI <br />
 
 
 ## Description
