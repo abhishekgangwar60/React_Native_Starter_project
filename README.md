@@ -53,4 +53,7 @@ react-native run-ios
 react-native run-android
 ```
 
+## Contributor
+
+1- Abhishek Gangwar
 
